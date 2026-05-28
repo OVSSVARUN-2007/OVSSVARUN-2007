@@ -9,8 +9,17 @@ AI & ML Engineer in Progress · Programmer · Full Stack Developer · Tech Enthu
 🏫 ICFAI Tech, Hyderabad
 </p>
 # 💫 About Me:
-<br><br>I am a B.Tech student specializing in **Artificial Intelligence and Machine Learning (2024–2028)** with a strong passion for building intelligent systems and solving real-world problems.<br><br>My core interests lie in **AI, Data Science, and Algorithms**, and I actively work on projects involving **RAG-based systems, chatbots, and efficient software solutions**. I focus on developing strong fundamentals in **Data Structures, system design, and mathematical concepts behind AI**.<br><br>I believe in a **logic-first approach** — understanding deeply, building from scratch, and continuously improving through practical implementation.<br><br>
+<br><br>
+I am a B.Tech student specializing in **Artificial Intelligence and Machine Learning (2024–2028)** with a strong passion for building intelligent systems and solving real-world problems.
 
+<br><br>
+My core interests lie in **AI, Data Science, and Algorithms**, and I actively work on projects involving **RAG-based systems, chatbots, and efficient software solutions**.
+
+<br><br>
+I focus on developing strong fundamentals in **Data Structures, system design, and mathematical concepts behind AI**.
+
+<br><br>
+I believe in a **logic-first approach** — understanding deeply, building from scratch, and continuously improving through practical implementation.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/venkata-srinivas-varun-oruganti-0a5532401) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:orugantivarun.2007@gmail.com) 
