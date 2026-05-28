@@ -23,9 +23,12 @@ AI & ML Engineer in Progress · Programmer · Full Stack Developer · Tech Enthu
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=OVSSVARUN-2007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=OVSSVARUN-2007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy-git-main.vercel.app/?username=OVSSVARUN-2007&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=OVSSVARUN-2007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OVSSVARUN-2007&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
